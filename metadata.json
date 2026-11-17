@@ -1,0 +1,8 @@
+{
+  "name": "꿈 씨앗 섬",
+  "description": "초등학교 1~4학년 비대면 진로 수업을 위한 겨울방학 3D 웹 게임 「꿈 씨앗 섬」이에요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
